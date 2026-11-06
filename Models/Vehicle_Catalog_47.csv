@@ -1,0 +1,48 @@
+#,نام,شناسه,کلاس,عرض (m),طول (m),ارتفاع (m),وضعیت مدل
+1,پراید ۱۳۱ SE,PRIDE 131 SE,sedan,1.605,3.935,1.455,high-detail procedural reference reconstruction
+2,پراید ۱۱۱,PRIDE 111,hatchback,1.67,3.6,1.46,distinct procedural prototype; not factory CAD or photogrammetry
+3,تیبا,TIBA,sedan,1.7,4.1,1.48,distinct procedural prototype; not factory CAD or photogrammetry
+4,تیبا ۲,TIBA 2,hatchback,1.7,3.95,1.49,distinct procedural prototype; not factory CAD or photogrammetry
+5,سمند LX,SAMAND LX,sedan,1.76,4.5,1.48,distinct procedural prototype; not factory CAD or photogrammetry
+6,پژو پارس,PEUGEOT PARS,sedan,1.75,4.49,1.47,distinct procedural prototype; not factory CAD or photogrammetry
+7,پژو ۲۰۶,PEUGEOT 206,hatchback,1.66,3.83,1.47,distinct procedural prototype; not factory CAD or photogrammetry
+8,پژو ۲۰۷,PEUGEOT 207,hatchback,1.69,3.9,1.49,distinct procedural prototype; not factory CAD or photogrammetry
+9,دنا پلاس,DENA PLUS,sedan,1.78,4.55,1.5,distinct procedural prototype; not factory CAD or photogrammetry
+10,شاهین,SHAHIN,sedan,1.77,4.44,1.52,distinct procedural prototype; not factory CAD or photogrammetry
+11,تارا,TARA,sedan,1.78,4.51,1.5,distinct procedural prototype; not factory CAD or photogrammetry
+12,کوییک,QUICK,crossover/suv,1.69,4.0,1.56,distinct procedural prototype; not factory CAD or photogrammetry
+13,ساینا S,SAINA S,sedan,1.7,4.12,1.5,distinct procedural prototype; not factory CAD or photogrammetry
+14,سورن پلاس,SOREN PLUS,sedan,1.78,4.53,1.51,distinct procedural prototype; not factory CAD or photogrammetry
+15,پژو ۴۰۵,PEUGEOT 405,sedan,1.73,4.4,1.46,distinct procedural prototype; not factory CAD or photogrammetry
+16,رانا پلاس,RANA PLUS,sedan,1.7,4.22,1.48,distinct procedural prototype; not factory CAD or photogrammetry
+17,آریسان ۲,ARISAN 2 PICKUP,pickup,1.73,4.65,1.78,distinct procedural prototype; not factory CAD or photogrammetry
+18,زامیاد ۲۴,ZAMYAD 24,light_truck,1.82,4.92,2.02,distinct procedural prototype; not factory CAD or photogrammetry
+19,پراید ۱۳۲,PRIDE 132,sedan,1.605,3.935,1.455,distinct procedural prototype; not factory CAD or photogrammetry
+20,پراید ۱۴۱,PRIDE 141,hatchback,1.605,3.935,1.455,distinct procedural prototype; not factory CAD or photogrammetry
+21,پیکان,PAYKAN,sedan,1.62,4.22,1.46,distinct procedural prototype; not factory CAD or photogrammetry
+22,پژو ۲۰۶ صندوقدار,PEUGEOT 206 SD,sedan,1.67,4.18,1.45,distinct procedural prototype; not factory CAD or photogrammetry
+23,پژو ۴۰۵ SLX,PEUGEOT 405 SLX,sedan,1.73,4.4,1.46,distinct procedural prototype; not factory CAD or photogrammetry
+24,پژو پارس ELX,PEUGEOT PARS ELX,sedan,1.75,4.49,1.47,distinct procedural prototype; not factory CAD or photogrammetry
+25,ال ۹۰,RENAULT L90,sedan,1.74,4.25,1.53,distinct procedural prototype; not factory CAD or photogrammetry
+26,ساینا EX,SAINA EX,sedan,1.7,4.12,1.49,distinct procedural prototype; not factory CAD or photogrammetry
+27,کوییک R,QUICK R,crossover/suv,1.69,4.0,1.56,distinct procedural prototype; not factory CAD or photogrammetry
+28,اطلس G,ATLAS G,crossover/suv,1.72,4.02,1.55,distinct procedural prototype; not factory CAD or photogrammetry
+29,سهند,SAHAND,sedan,1.7,4.22,1.5,distinct procedural prototype; not factory CAD or photogrammetry
+30,ری‌را,RIRA,crossover/suv,1.84,4.34,1.64,distinct procedural prototype; not factory CAD or photogrammetry
+31,ام‌وی‌ام ۳۱۵,MVM 315,hatchback,1.69,4.02,1.5,distinct procedural prototype; not factory CAD or photogrammetry
+32,ام‌وی‌ام X22 پرو,MVM X22 PRO,crossover/suv,1.76,4.2,1.57,distinct procedural prototype; not factory CAD or photogrammetry
+33,جک S5,JAC S5,crossover/suv,1.84,4.48,1.68,distinct procedural prototype; not factory CAD or photogrammetry
+34,هایما S7,HAIMA S7,crossover/suv,1.83,4.53,1.73,distinct procedural prototype; not factory CAD or photogrammetry
+35,تیگو ۷ پرو,TIGGO 7 PRO,crossover/suv,1.84,4.5,1.7,distinct procedural prototype; not factory CAD or photogrammetry
+36,دیگنیتی پرایم,DIGNITY PRIME,crossover/suv,1.87,4.68,1.64,distinct procedural prototype; not factory CAD or photogrammetry
+37,فیدلیتی پرایم,FIDELITY PRIME,crossover/suv,1.9,4.73,1.71,distinct procedural prototype; not factory CAD or photogrammetry
+38,ام‌وی‌ام ۵۳۰,MVM 530,sedan,1.78,4.52,1.48,distinct procedural prototype; not factory CAD or photogrammetry
+39,کی‌ام‌سی T8,KMC T8,pickup,1.93,5.32,1.92,distinct procedural prototype; not factory CAD or photogrammetry
+40,تویوتا هایلوکس,TOYOTA HILUX,pickup,1.85,5.33,1.82,distinct procedural prototype; not factory CAD or photogrammetry
+41,ایسوزو NMR,ISUZU NMR,medium_truck,2.02,6.1,2.7,distinct procedural prototype; not factory CAD or photogrammetry
+42,ولوو FH16,VOLVO FH16,tractor_trailer,2.55,9.8,3.85,distinct procedural prototype; not factory CAD or photogrammetry
+43,اسکانیا سری R,SCANIA R,tractor_trailer,2.55,9.85,3.8,distinct procedural prototype; not factory CAD or photogrammetry
+44,بنز ۱۹۲۴,MERCEDES 1924,light_truck,2.5,7.35,3.25,distinct procedural prototype; not factory CAD or photogrammetry
+45,اتوبوس بین‌شهری,INTERCITY BUS,bus,2.55,10.85,3.45,distinct procedural prototype; not factory CAD or photogrammetry
+46,اتوبوس شهری,CITY BUS,bus,2.55,10.4,3.25,distinct procedural prototype; not factory CAD or photogrammetry
+47,مینی‌بوس,MINIBUS,bus,2.1,6.75,2.85,distinct procedural prototype; not factory CAD or photogrammetry
